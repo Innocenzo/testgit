@@ -1,0 +1,22 @@
+{
+  "name": "testgit",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Innocenzo/testgit.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Innocenzo Biondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Innocenzo/testgit/issues"
+  },
+  "homepage": "https://github.com/Innocenzo/testgit#readme"
+}
