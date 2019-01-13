@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/Innocenzo/testgit.git"
   },
+  "dependencies": {
+    "kasharedlibrary": "git+ssh://git@github.com/adbglobal/KASharedLibrary.git",
+  },
   "keywords": [
     "test"
   ],
