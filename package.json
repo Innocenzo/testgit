@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/Innocenzo/testgit.git"
   },
-  "dependencies": {
-    "kasharedlibrary": "git+ssh://git@github.com/adbglobal/KASharedLibrary.git"
-  },
   "keywords": [
     "test"
   ],
@@ -21,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Innocenzo/testgit/issues"
   },
-  "homepage": "https://github.com/Innocenzo/testgit#readme"
+  "homepage": "https://github.com/Innocenzo/testgit#readme",
+  "dependencies": {
+    "mygitlib": "git+ssh://git@github.com/InnocenzoB/mygitlib.git#semver:^3.0.0"
+  }
 }
